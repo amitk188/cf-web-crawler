@@ -1,6 +1,6 @@
 import scrapy
 from itertools import groupby
-from urllib.parse import urljoin
+#from urllib.parse import urljoin
 from scrapy.selector import Selector
 from ..items import CfwebcrawlItem
 from scrapy.spiders import CrawlSpider, Rule
