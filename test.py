@@ -12,5 +12,6 @@ from difflib import SequenceMatcher
 #import AdvancedHTMLParser
 #from requests_html import HTMLSession
 #from requests_html import AsyncHTMLSession
-#from urllib.request import urljoin 
-#from urllib.request import urlparse
+from urllib.request import urljoin 
+from urllib.request import urlparse
+print("Import Successful!")
