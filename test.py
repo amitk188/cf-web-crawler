@@ -6,7 +6,7 @@ import requests
 import argparse
 import numpy as np
 #import urllib.request
-#from easyocr import Reader
+from easyocr import Reader
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
 import AdvancedHTMLParser
