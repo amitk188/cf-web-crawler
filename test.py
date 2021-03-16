@@ -9,7 +9,7 @@ import numpy as np
 #from easyocr import Reader
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
-#import AdvancedHTMLParser
+import AdvancedHTMLParser
 #from requests_html import HTMLSession
 #from requests_html import AsyncHTMLSession
 from urllib.request import urljoin 
